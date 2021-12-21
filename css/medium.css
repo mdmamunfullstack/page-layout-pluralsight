@@ -1,3 +1,15 @@
 @media only screen and (min-width: 768px) {
+  .small-12 {
+    width: 50%;
+  }
+  header h2 {
+    font-size: 2.85rem;
+  }
 
+  header h2 {
+    font-size: 1.5rem;
+  } 
+  header img{
+      height: 100px;
+  }
 } /*End of Media Query*/
