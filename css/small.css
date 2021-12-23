@@ -115,3 +115,11 @@ nav ul.open{
 nav ul{
     display: none;
 }
+
+
+/*****************Main****************/
+
+ main img{
+    width: 100%;
+    height: auto;
+} 
